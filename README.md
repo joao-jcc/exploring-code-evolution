@@ -81,9 +81,21 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/Significant-Gravitas/AutoGPT
+2. Gráfico selecionado: Lines of code (LOC)
+4. Explicação:
+Uma observação inicial pode indicar um crescimento acelerado de 2020 a 2023, o que talvez sugira um foco no desenvolvimento de funcionalidades.
+
+O ponto mais notável é a queda em 2024, onde o número de linhas de código foi reduzido de cerca de 6.500 para aproximadamente 3.700.
+
+Uma diminuição tão significativa pode indicar a realização de uma grande refatoração de código.
+
+Essa prática pode sugerir que a equipe priorizou a limpeza e a otimização da base de código, em vez de apenas adicionar mais funcionalidades.
+
+Isso, por sua vez, pode indicar uma preocupação com a sustentabilidade e a facilidade de manutenção do projeto a longo prazo.
+
+Se a interpretação estiver correta, a retomada do crescimento em 2025 pode indicar que a equipe conseguiu construir novas funcionalidades sobre uma base de código mais sólida, o que pode ser um sinal positivo de um projeto bem gerido.
+
 
 
 
