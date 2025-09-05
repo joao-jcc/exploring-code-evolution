@@ -84,6 +84,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 1. Repositório selecionado: https://github.com/Significant-Gravitas/AutoGPT
 2. Gráfico selecionado: Lines of code (LOC)
 4. Explicação:
+   
 Uma observação inicial pode indicar um crescimento acelerado de 2020 a 2023, o que talvez sugira um foco no desenvolvimento de funcionalidades.
 
 O ponto mais notável é a queda em 2024, onde o número de linhas de código foi reduzido de cerca de 6.500 para aproximadamente 3.700.
